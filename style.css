@@ -309,7 +309,7 @@ body {
 }
 
 .qualification {
-  background: linear-gradient(35deg, #0b0e13, #1b47c0);
+  /* background: linear-gradient(35deg, #0b0e13, #1b47c0); */
   border-bottom: 3px solid rgb(115, 115, 115);
   width: 90%;
   height: 50%;
